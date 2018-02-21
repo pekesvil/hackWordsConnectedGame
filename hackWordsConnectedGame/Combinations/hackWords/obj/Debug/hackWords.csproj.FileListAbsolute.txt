@@ -1,0 +1,10 @@
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\bin\hackWords.dll.config
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\bin\hackWords.dll
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\bin\hackWords.pdb
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\bin\Combinations.exe
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\bin\Combinations.pdb
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\bin\Combinations.exe.config
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\obj\Debug\hackWords.csprojResolveAssemblyReference.cache
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\obj\Debug\hackWords.csproj.CoreCompileInputs.cache
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\obj\Debug\hackWords.dll
+D:\PROYECTOSVS\WindowsForms\hackWordsGame\Combinations\hackWords\obj\Debug\hackWords.pdb
